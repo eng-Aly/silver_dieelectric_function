@@ -17,10 +17,14 @@ The results are compared with **JC experimental data** for silver, which include
 ## Equations
 
 The dielectric function is given by the Drude model equations:
+
+
 ![drude equations](https://github.com/user-attachments/assets/0629d74a-ef98-473e-b522-25a31061af7d)
 
 
 The dielectric functinon is given by the L4 model equations: 
+
+
 ![qu](https://github.com/user-attachments/assets/444ea375-f186-4bf3-b4e3-274103f94b29)
 
 using the table:
