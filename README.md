@@ -9,7 +9,7 @@ The dielectric function is computed using:
 2. **Drude Model**: Describes the free-electron contribution to the dielectric function of metals, specifically for silver.
 
 The dielectric function has two parts:
-- **Real part** (\(\epsilon_1\)): Describes the dispersion of the material.
+- **Real part** (`epsilon_1`): Describes the dispersion of the material.
 - **Imaginary part** (\(\epsilon_2\)): Describes the absorption losses in the material.
 
 The results are compared with **JC experimental data** for silver, which includes both real and imaginary parts of the dielectric function.
